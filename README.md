@@ -27,8 +27,8 @@ Our goal is to provide a **transparent, trackable, and scalable solution** to ca
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js / Express *(or Spring Boot, depending on implementation)*  
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js / Express  
 - **Database:** MongoDB / SQL  
 - **Deployment:** Render  
 
@@ -39,3 +39,8 @@ Our goal is to provide a **transparent, trackable, and scalable solution** to ca
 - **AI-driven carbon footprint analysis**
 - **Mobile app integration**
 - **Smart contracts for automated verification**  
+
+---
+
+##🏆 Acknowledgement
+- **This project was developed under Smart India Hackathon (SIH) with the vision of creating a greener and more sustainable future.**
