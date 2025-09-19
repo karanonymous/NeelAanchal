@@ -34,15 +34,8 @@ Our goal is to provide a **transparent, trackable, and scalable solution** to ca
 
 ---
 
-## 🚀 How to Run Locally  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/karanonymous/NeelAanchal.git
-   cd NeelAanchal
+ ## 📌 Future Improvements
 
-
- 📌 Future Improvements
-
--AI-driven carbon footprint analysis
--Mobile app integration
--Smart contracts for automated verification  
+-**AI-driven carbon footprint analysis
+-**Mobile app integration
+-**Smart contracts for automated verification  
