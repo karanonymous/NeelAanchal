@@ -36,6 +36,6 @@ Our goal is to provide a **transparent, trackable, and scalable solution** to ca
 
  ## 📌 Future Improvements
 
--**AI-driven carbon footprint analysis
--**Mobile app integration
--**Smart contracts for automated verification  
+- **AI-driven carbon footprint analysis**
+- **Mobile app integration**
+- **Smart contracts for automated verification**  
