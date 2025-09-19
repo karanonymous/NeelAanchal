@@ -1,20 +1,44 @@
 # NeelAanchal
 github repo for team BlueChain's sih project "NeelAanchal"
 
-# Project Title
+# NEELANCHAL — Blockchain-based Blue Carbon & Biodiversity Registry
 
-Brief description of your project.
+Live demo: https://neelanchal4.onrender.com
 
-## Live Demo
-You can try the project here: [Click to View](https://neelanchal4.onrender.com)
+## What it is
+Neelanchal is a minimal registry for blue carbon & biodiversity credits built with blockchain concepts. It enables registering coastal projects, tracking credits, and transparent verification.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Highlights
+- Blockchain-inspired audit trail for credits
+- Dashboard and interactive visualizations
+- Demo-ready: live on Render
+- Clean minimal UI for judges
 
-## How to Run Locally
-1. Clone this repository  
-2. Install dependencies  
-3. Run the project
+## Technologies
+_Replace with actual stack (example):_  
+React, Node.js/Express, PostgreSQL, Solidity (or simulated ledger), Docker
+
+## Local setup
+1. `git clone https://github.com/<your-username>/neelanchal.git`
+2. `cd neelanchal`
+3. Copy `.env.example` to `.env` and fill keys
+4. `npm install` (or `pip install -r requirements.txt`)
+5. `npm run dev` (or run the instructions for your stack)
+
+## Screenshots / Demo
+(put screenshots in `/docs` and link here)
+
+## Architecture
+(brief diagram and short explanation — include file `docs/architecture.png`)
+
+## How judges can test
+1. Open live demo.
+2. Create a sample project (email: demo@neel.com / password: demo123).
+3. Show “Audit Trail” tab to demonstrate immutable history.
+
+## Contributing
+PRs welcome. Please follow `CONTRIBUTING.md`.
+
+## License
+MIT
 
