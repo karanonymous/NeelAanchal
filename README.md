@@ -2,9 +2,6 @@
 
 ![Status](https://img.shields.io/badge/Project-SIH%202025-blue?style=for-the-badge)  
 ![Made With](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)  
-![Tech](https://img.shields.io/badge/Tech-Blockchain%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20JS-green?style=for-the-badge)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)  
-
 ---
 
 ## 🔗 Live Demo  
